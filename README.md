@@ -9,7 +9,3 @@ Hello Team,
 Hi Team.
   I am Katie Deehr, a MSDA student in the College of Business.
   I like watching baseball and baking in my free time.
-
-Hey All,
-  I am Kyle Geiger, finishing the MSDA program.
-  I like to travel and play video games.
