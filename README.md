@@ -13,3 +13,7 @@ Hi Team.
 Hey All,
   I am Kyle Geiger, finishing the MSDA program.
   I like to travel and play video games.
+  
+  Hello Team
+  I am Tendai Munyanyi, an MSDA student in the College of Business.
+  I like to cook and explore different things.
